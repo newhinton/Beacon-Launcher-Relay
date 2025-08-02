@@ -13,3 +13,7 @@ This app is provided as is, and no support will be provided.
 
 You can customize the app to your liking, adapting it to other emulators as needed.
 
+
+
+
+License: GPLv3
